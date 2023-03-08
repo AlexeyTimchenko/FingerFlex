@@ -10,6 +10,13 @@ TODO:
 - Add pwc buttom above
 - Add twister
 
+#### Comments from the git workshop
+- Create main.py function
+- Describe how dataset can be loaded
+- Nice requirements file with version
+- Make .py files out of .ipynb
+- Figure generating script
+
 
 <p align="center">
 
